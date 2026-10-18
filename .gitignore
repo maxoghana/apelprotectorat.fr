@@ -1,0 +1,13 @@
+# Dossier de build (généré automatiquement lors de la compilation)
+/public/
+/resources/_gen/
+
+# Cache et exécutables Hugo
+.hugo_build.lock
+hugo_stats.json
+
+# Fichiers système et éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
